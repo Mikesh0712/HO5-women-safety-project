@@ -38,21 +38,33 @@ Users can select language for accessibility.
 🛠 Tech Stack
 
 🎨 Frontend
+
 HTML, CSS, JavaScript
+
 Responsive UI with modular CSS per page
+
 Global common.css & common.js
+
 ⚙ Backend
+
 Node.js + Express.js
+
 Firebase Admin SDK for DB & Auth
+
 APIs for users, forum, emergency contacts
+
 ☁ Database
+
 Firebase Firestore → user profiles, emergency contacts, forum posts
+
 Firebase Storage → profile pictures
 
 🔮 Future Scope
-AI-powered danger zone detection (using maps + ML).
-Mobile app version (React Native).
-Live location sharing with emergency contacts(now only mock).
+>AI-powered danger zone detection (using maps + ML).
+
+>Mobile app version (React Native).
+
+>Live location sharing with emergency contacts(now only mock).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
