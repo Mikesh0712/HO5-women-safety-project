@@ -91,17 +91,8 @@ The backend server will start on http://localhost:5000
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⚠️ Important Notice !
+🔒 Security Note
 
-We are aware that Firebase keys and Twilio API keys are currently visible in this project.
-This was done only for demonstration purposes in the hackathon to ensure the project works without extra setup.
-
-👉 For security reasons, these keys should normally be kept private (using environment variables).
-
-👉 To evaluate the project, judges may:
-
-Run the frontend & backend locally (instructions above), OR
-
-Watch the demo video we have provided, which shows the complete working of the app.
-
-We sincerely apologize for exposing the keys in this submission, and we will secure them in future versions by deploying  proper backend(render) and frontend(vercel) 🙏.
+This project uses Firebase (for authentication & database) and Twilio (for SOS emergency messaging).
+For security reasons, API keys and credentials are not included in this repository.
+Judges can refer to the demo video for a working showcase of the full project, and the backend can be run with valid keys provided securely if needed.
