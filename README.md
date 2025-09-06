@@ -98,4 +98,4 @@ For security reasons, API keys and credentials are not included in this reposito
 Judges can refer to the demo video for a working showcase of the full project, and the backend can be run with valid keys provided securely if needed.
 
 --------------
-This show error sending SOS alerts as we need twilio phone numbber which is paid so for demonstration purpose we haven't done that.
+This shows error sending SOS alerts as we need twilio phone numbber which is paid so for demonstration purpose we haven't done that.
