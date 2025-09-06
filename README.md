@@ -85,6 +85,7 @@ We are aware that Firebase keys and Twilio API keys are currently visible in thi
 This was done only for demonstration purposes in the hackathon to ensure the project works without extra setup.
 
 👉 For security reasons, these keys should normally be kept private (using environment variables).
+
 👉 To evaluate the project, judges may:
 
 Run the frontend & backend locally (instructions above), OR
